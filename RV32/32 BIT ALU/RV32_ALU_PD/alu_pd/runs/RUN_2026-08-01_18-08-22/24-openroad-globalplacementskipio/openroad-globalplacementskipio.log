@@ -1,0 +1,124 @@
+Reading timing models for corner nom_tt_025C_1v80…
+Reading timing library for the 'nom_tt_025C_1v80' corner at '/home/naghul/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib'…
+Reading OpenROAD database at '/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/21-openroad-generatepdn/ALU.odb'…
+Reading design constraints file at '/nix/store/ffl2vg3m80k0p74pyffnmai83fnv38mf-python3-3.13.9-env/lib/python3.13/site-packages/librelane/scripts/base.sdc'…
+[WARNING STA-0366] port '__VIRTUAL_CLK__' not found.
+[INFO] Using clock __VIRTUAL_CLK__…
+[INFO] Setting output delay to: 2
+[INFO] Setting input delay to: 2
+[WARNING STA-0366] port '__VIRTUAL_CLK__' not found.
+[INFO] Setting load to: 0.033442
+[INFO] Setting clock uncertainty to: 0.25
+[INFO] Setting clock transition to: 0.1499999999999999944488848768742172978818416595458984375
+[WARNING STA-0419] transition time can not be specified for virtual clocks.
+[INFO] Setting timing derate to: 5%
+[WARNING STA-0450] virtual clock __VIRTUAL_CLK__ can not be propagated.
++ global_placement -density 0.520098 -skip_io -pad_right 0 -pad_left 0 -init_wirelength_coef 0.25
+[INFO GPL-0001] ---- Initialize GPL Main Data Structures
+[INFO GPL-0002] DBU: 1000
+[INFO GPL-0003] SiteSize: (  0.460  2.720 ) um
+[INFO GPL-0004] CoreBBox: (  5.520 10.880 ) ( 149.500 155.040 ) um
+[INFO GPL-0036] Movable instances area:       8341.750 um^2
+[INFO GPL-0037] Total instances area:         9117.494 um^2
+[INFO GPL-0035] Pin density area adjust:       413.841 um^2
+[INFO GPL-0032] ---- Initialize Region: Top-level
+[INFO GPL-0006] Number of instances:              1266
+[INFO GPL-0007] Movable instances:                 858
+[INFO GPL-0008] Fixed instances:                   408
+[INFO GPL-0009] Dummy instances:                     0
+[INFO GPL-0010] Number of nets:                    926
+[INFO GPL-0011] Number of pins:                   3576
+[INFO GPL-0012] Die BBox:  (  0.000  0.000 ) ( 155.450 166.170 ) um
+[INFO GPL-0013] Core BBox: (  5.520 10.880 ) ( 149.500 155.040 ) um
+[INFO GPL-0016] Core area:                   20756.157 um^2
+[INFO GPL-0014] Region name: top-level.
+[INFO GPL-0015] Region area:                 20756.157 um^2
+[INFO GPL-0017] Fixed instances area:          775.744 um^2
+[INFO GPL-0018] Movable instances area:       8755.591 um^2
+[INFO GPL-0019] Utilization:                    43.821 %
+[INFO GPL-0020] Standard cells area:          8755.591 um^2
+[INFO GPL-0021] Large instances area:            0.000 um^2
+[INFO GPL-0005] ---- Execute Conjugate Gradient Initial Placement.
+[INFO GPL-0051] Source of initial instance position counters:
+	Odb location = 0	Core center = 858	Region center = 0
+[INFO GPL-0033] ---- Initialize Nesterov Region: Top-level
+[INFO GPL-0023] Placement target density:       0.5201
+[INFO GPL-0024] Movable insts average area:     10.205 um^2
+[INFO GPL-0025] Ideal bin area:                 19.621 um^2
+[INFO GPL-0026] Ideal bin count:                  1057
+[INFO GPL-0027] Total bin area:              20756.157 um^2
+[INFO GPL-0028] Bin count (X, Y):          32 ,     32
+[INFO GPL-0029] Bin size (W * H):       4.499 *  4.505 um
+[INFO GPL-0030] Number of bins:                   1024
+[INFO GPL-0007] ---- Execute Nesterov Global Placement.
+[INFO GPL-0031] HPWL: Half-Perimeter Wirelength
+Iteration | Overflow |     HPWL (um) |  HPWL(%) |   Penalty | Group
+---------------------------------------------------------------
+        0 |   0.9940 |  2.305179e+03 |   +0.00% |  6.83e-15 |      
+       10 |   0.9903 |  1.642391e+03 |  -28.75% |  1.11e-14 |      
+       20 |   0.9903 |  1.641685e+03 |   -0.04% |  1.81e-14 |      
+       30 |   0.9903 |  1.641615e+03 |   -0.00% |  2.95e-14 |      
+       40 |   0.9903 |  1.641675e+03 |   +0.00% |  4.81e-14 |      
+       50 |   0.9903 |  1.641686e+03 |   +0.00% |  7.83e-14 |      
+       60 |   0.9903 |  1.641898e+03 |   +0.01% |  1.28e-13 |      
+       70 |   0.9903 |  1.642063e+03 |   +0.01% |  2.08e-13 |      
+       80 |   0.9903 |  1.642343e+03 |   +0.02% |  3.38e-13 |      
+       90 |   0.9903 |  1.643010e+03 |   +0.04% |  5.51e-13 |      
+      100 |   0.9903 |  1.644366e+03 |   +0.08% |  8.98e-13 |      
+      110 |   0.9903 |  1.647137e+03 |   +0.17% |  1.46e-12 |      
+      120 |   0.9903 |  1.653812e+03 |   +0.41% |  2.38e-12 |      
+      130 |   0.9903 |  1.671008e+03 |   +1.04% |  3.88e-12 |      
+      140 |   0.9903 |  1.715135e+03 |   +2.64% |  6.32e-12 |      
+      150 |   0.9870 |  1.967860e+03 |  +14.73% |  1.03e-11 |      
+      160 |   0.9693 |  3.512826e+03 |  +78.51% |  1.68e-11 |      
+      170 |   0.9525 |  4.405158e+03 |  +25.40% |  2.73e-11 |      
+      180 |   0.9453 |  4.814229e+03 |   +9.29% |  4.45e-11 |      
+      190 |   0.9226 |  6.057072e+03 |  +25.82% |  7.25e-11 |      
+      200 |   0.9049 |  6.968159e+03 |  +15.04% |  1.18e-10 |      
+      210 |   0.8742 |  8.235783e+03 |  +18.19% |  1.92e-10 |      
+      220 |   0.8415 |  9.481025e+03 |  +15.12% |  3.13e-10 |      
+      230 |   0.8046 |  1.067234e+04 |  +12.57% |  5.10e-10 |      
+      240 |   0.7606 |  1.197793e+04 |  +12.23% |  8.30e-10 |      
+      250 |   0.7136 |  1.321265e+04 |  +10.31% |  1.35e-09 |      
+      260 |   0.6669 |  1.446125e+04 |   +9.45% |  2.20e-09 |      
+      270 |   0.6165 |  1.555990e+04 |   +7.60% |  3.59e-09 |      
+      280 |   0.5582 |  1.677901e+04 |   +7.83% |  5.84e-09 |      
+      290 |   0.5016 |  1.786822e+04 |   +6.49% |  9.52e-09 |      
+      300 |   0.4461 |  1.895254e+04 |   +6.07% |  1.55e-08 |      
+      310 |   0.3954 |  1.999479e+04 |   +5.50% |  2.52e-08 |      
+      320 |   0.3438 |  2.074849e+04 |   +3.77% |  4.11e-08 |      
+      330 |   0.3091 |  2.126905e+04 |   +2.51% |  6.06e-08 |      
+      340 |   0.2700 |  2.169477e+04 |   +2.00% |  8.92e-08 |      
+      350 |   0.2358 |  2.201399e+04 |   +1.47% |  1.31e-07 |      
+      360 |   0.2050 |  2.229383e+04 |   +1.27% |  1.94e-07 |      
+      370 |   0.1791 |  2.253804e+04 |   +1.10% |  2.85e-07 |      
+      380 |   0.1565 |  2.273245e+04 |   +0.86% |  4.20e-07 |      
+      390 |   0.1325 |  2.289156e+04 |   +0.70% |  6.19e-07 |      
+      400 |   0.1135 |  2.300510e+04 |   +0.50% |  9.12e-07 |      
+      410 |   0.0993 |  2.311985e+04 |   +0.50% |  1.34e-06 |      
+      410 |   0.0993 |  2.311985e+04 |          |  1.40e-06 |      
+---------------------------------------------------------------
+[INFO GPL-1001] Global placement finished at iteration 410
+[INFO GPL-1002] Placed Cell Area             8755.5915
+[INFO GPL-1003] Available Free Area         19980.4128
+[INFO GPL-1004] Minimum Feasible Density        0.4400 (cell_area / free_area)
+[INFO GPL-1006]   Suggested Target Densities:
+[INFO GPL-1007]     - For 90% usage of free space: 0.4869
+[INFO GPL-1008]     - For 80% usage of free space: 0.5478
+[INFO GPL-1009]     - For 50% usage of free space: 0.8764
+[INFO GPL-1014] Final placement area: 8755.59 (+0.00%)
+Setting global connections for newly added cells…
+[INFO] Setting global connections...
+[INFO ODB-0403] 0 connections made, 0 conflicts skipped.
+Updating metrics…
+Cell type report:                       Count       Area
+  Fill cell                               106     397.88
+  Tap cell                                302     377.86
+  Inverter                                 27     101.35
+  Multi-Input combinational cell          831    8240.40
+  Total                                  1266    9117.49
+Writing OpenROAD database to '/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/24-openroad-globalplacementskipio/ALU.odb'…
+Writing netlist to '/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/24-openroad-globalplacementskipio/ALU.nl.v'…
+Writing powered netlist to '/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/24-openroad-globalplacementskipio/ALU.pnl.v'…
+Writing layout to '/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/24-openroad-globalplacementskipio/ALU.def'…
+Writing timing constraints to '/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/24-openroad-globalplacementskipio/ALU.sdc'…

@@ -1,0 +1,36 @@
+
+===========================================================================
+Violator List
+============================================================================
+[setup in-out] B[0] -> zero : -9.701753
+[setup in-out] B[0] -> result[31] : -3.736601
+[setup in-out] B[0] -> result[17] : -2.728589
+[setup in-out] B[1] -> result[23] : -2.129941
+[setup in-out] B[1] -> result[30] : -1.910719
+[setup in-out] B[1] -> result[27] : -1.910679
+[setup in-out] B[1] -> result[0] : -1.908798
+[setup in-out] B[1] -> result[18] : -1.855910
+[setup in-out] B[1] -> result[29] : -1.788311
+[setup in-out] B[0] -> result[28] : -1.753851
+[setup in-out] B[0] -> result[26] : -1.690987
+[setup in-out] B[0] -> result[21] : -1.603969
+[setup in-out] B[0] -> result[12] : -1.599751
+[setup in-out] B[0] -> result[9] : -1.542274
+[setup in-out] B[1] -> result[19] : -1.473976
+[setup in-out] B[0] -> result[8] : -1.379048
+[setup in-out] B[0] -> result[10] : -1.265964
+[setup in-out] B[1] -> result[22] : -1.261127
+[setup in-out] B[0] -> result[7] : -1.250408
+[setup in-out] B[1] -> result[25] : -1.196234
+[setup in-out] B[0] -> result[5] : -0.929286
+[setup in-out] B[0] -> result[24] : -0.921991
+[setup in-out] B[0] -> result[16] : -0.840999
+[setup in-out] B[0] -> result[6] : -0.767800
+[setup in-out] B[0] -> result[11] : -0.691310
+[setup in-out] B[0] -> result[15] : -0.688596
+[setup in-out] B[0] -> result[20] : -0.651337
+[setup in-out] B[0] -> result[3] : -0.534365
+[setup in-out] B[0] -> result[4] : -0.421470
+[setup in-out] B[0] -> result[13] : -0.406007
+[setup in-out] B[0] -> result[1] : -0.322323
+[setup in-out] B[0] -> result[14] : -0.217947

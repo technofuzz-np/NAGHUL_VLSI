@@ -1,0 +1,59 @@
+Reading timing models for corner nom_tt_025C_1v80…
+Reading timing library for the 'nom_tt_025C_1v80' corner at '/home/naghul/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib'…
+Reading technology LEF file at '/home/naghul/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/techlef/sky130_fd_sc_hd__nom.tlef'…
+[INFO ODB-0227] LEF file: /home/naghul/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/techlef/sky130_fd_sc_hd__nom.tlef, created 14 layers, 25 vias
+Reading cell LEF file at '/home/naghul/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_fd_sc_hd.lef'…
+[WARNING ODB-0220] WARNING (LEFPARS-2008): NOWIREEXTENSIONATPIN statement is obsolete in version 5.6 or later.
+The NOWIREEXTENSIONATPIN statement will be ignored. See file /home/naghul/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_fd_sc_hd.lef at line 2.
+
+[INFO ODB-0227] LEF file: /home/naghul/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_fd_sc_hd.lef, created 437 library cells
+Reading cell LEF file at '/home/naghul/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_ef_sc_hd.lef'…
+[WARNING ODB-0220] WARNING (LEFPARS-2008): NOWIREEXTENSIONATPIN statement is obsolete in version 5.6 or later.
+The NOWIREEXTENSIONATPIN statement will be ignored. See file /home/naghul/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_ef_sc_hd.lef at line 2.
+
+[INFO ODB-0227] LEF file: /home/naghul/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_ef_sc_hd.lef, created 8 library cells
+Reading top-level netlist at '/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/06-yosys-synthesis/ALU.nl.v'…
+Linking design 'ALU' from netlist…
+Reading design constraints file at '/nix/store/ffl2vg3m80k0p74pyffnmai83fnv38mf-python3-3.13.9-env/lib/python3.13/site-packages/librelane/scripts/base.sdc'…
+[WARNING STA-0366] port '__VIRTUAL_CLK__' not found.
+[INFO] Using clock __VIRTUAL_CLK__…
+[INFO] Setting output delay to: 2
+[INFO] Setting input delay to: 2
+[WARNING STA-0366] port '__VIRTUAL_CLK__' not found.
+[INFO] Setting load to: 0.033442
+[INFO] Setting clock uncertainty to: 0.25
+[INFO] Setting clock transition to: 0.1499999999999999944488848768742172978818416595458984375
+[WARNING STA-0419] transition time can not be specified for virtual clocks.
+[INFO] Setting timing derate to: 5%
+[WARNING STA-0450] virtual clock __VIRTUAL_CLK__ can not be propagated.
+Using site height: 2.72 and site width: 0.46…
+[INFO] Using relative sizing for the floorplan.
++ initialize_floorplan -site unithd -utilization 40 -aspect_ratio 1.0 -core_space 10.88 10.88 5.5200000000000005 5.5200000000000005
+[INFO IFP-0107] Defining die area using utilization: 40.00% and aspect ratio: 1.
+[INFO IFP-0001] Added 53 rows of 313 site unithd.
+[INFO IFP-0100] Die BBox:  (  0.000  0.000 ) ( 155.450 166.170 ) um
+[INFO IFP-0101] Core BBox: (  5.520 10.880 ) ( 149.500 155.040 ) um
+[INFO IFP-0102] Core area:                        20756.157 um^2
+[INFO IFP-0103] Total instances area:              8341.750 um^2
+[INFO IFP-0104] Effective utilization:                0.402
+[INFO IFP-0105] Number of instances:                    858
+[INFO IFP-0030] Inserted 0 tiecells using sky130_fd_sc_hd__conb_1/LO.
+[INFO IFP-0030] Inserted 0 tiecells using sky130_fd_sc_hd__conb_1/HI.
+[INFO] Extracting DIE_AREA and CORE_AREA from the floorplan
+[INFO] Floorplanned on a die area of 0.0 0.0 155.45 166.17 (µm).
+[INFO] Floorplanned on a core area of 5.52 10.88 149.5 155.04 (µm).
+Writing metric design__die__bbox: 0.0 0.0 155.45 166.17
+Writing metric design__core__bbox: 5.52 10.88 149.5 155.04
+Setting global connections for newly added cells…
+[INFO] Setting global connections...
+[INFO ODB-0403] 0 connections made, 0 conflicts skipped.
+Updating metrics…
+Cell type report:                       Count       Area
+  Inverter                                 27     101.35
+  Multi-Input combinational cell          831    8240.40
+  Total                                   858    8341.75
+Writing OpenROAD database to '/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/13-openroad-floorplan/ALU.odb'…
+Writing netlist to '/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/13-openroad-floorplan/ALU.nl.v'…
+Writing powered netlist to '/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/13-openroad-floorplan/ALU.pnl.v'…
+Writing layout to '/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/13-openroad-floorplan/ALU.def'…
+Writing timing constraints to '/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/13-openroad-floorplan/ALU.sdc'…

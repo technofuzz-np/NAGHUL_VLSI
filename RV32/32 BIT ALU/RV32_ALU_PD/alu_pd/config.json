@@ -1,0 +1,13 @@
+{
+    "DESIGN_NAME": "ALU",
+
+    "VERILOG_FILES": [
+        "dir::src/ALU.v"
+    ],
+
+    "CLOCK_PORT": null,
+    "CLOCK_PERIOD": 10,
+
+    "FP_CORE_UTIL": 40,
+    "FP_ASPECT_RATIO": 1.0
+}

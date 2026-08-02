@@ -1,0 +1,901 @@
+// DESCRIPTION: Verilator output: Waivers generated with --waiver-output
+
+`verilator_config
+
+// Below are suggested waivers. You have three options:
+//   1. Fix the reason for the linter warning in the Verilog sources
+//   2. Keep the waiver permanently if you are sure it is okay
+//   3. Keep the waiver temporarily to suppress the output
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
+// lint_off -rule TIMESCALEMOD -file "*/home/naghul/vlsi/projects/alu_pd/runs/RUN_2026-08-01_18-08-22/tmp/e72e9badc06241a48e721458c978682d.bb.v" -match "Timescale missing on this module as other modules have it (IEEE 1800-2023 3.14.2.3)*"
+
