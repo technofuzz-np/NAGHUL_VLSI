@@ -1,0 +1,196 @@
+# 32-bit ALU (Arithmetic Logic Unit)
+
+A synthesizable 32-bit Arithmetic Logic Unit (ALU) written in Verilog and implemented through a complete RTL-to-GDSII ASIC design flow using LibreLane and the Sky130 Process Design Kit (PDK).
+
+---
+
+## Overview
+
+This project implements a 32-bit ALU capable of performing common arithmetic and logical operations used in RISC-V processors. The design was verified through synthesis, physical design, routing, timing analysis, DRC, LVS, and GDSII generation.
+
+This project serves as the first building block toward designing a complete 32-bit RISC-V processor.
+
+---
+
+## Features
+
+- 32-bit datapath
+- Synthesizable Verilog RTL
+- Combinational design (no clock required)
+- Zero flag generation
+- ASIC implementation using Sky130
+- Complete RTL-to-GDSII flow
+
+---
+
+## Supported Operations
+
+| Control | Operation |
+|----------|-----------|
+| 0000 | AND |
+| 0001 | OR |
+| 0010 | ADD |
+| 0110 | SUB |
+| 0111 | SLT |
+| 1100 | NOR |
+
+---
+
+## Project Structure
+
+```
+alu_pd/
+├── src/
+│   └── ALU.v
+├── config.json
+├── runs/
+├── reports/
+└── logs/
+```
+
+---
+
+## Design Flow
+
+The design was implemented using the complete LibreLane ASIC flow.
+
+```
+Verilog RTL
+      │
+      ▼
+Linting
+      │
+      ▼
+Logic Synthesis (Yosys)
+      │
+      ▼
+Floorplanning
+      │
+      ▼
+Power Distribution Network (PDN)
+      │
+      ▼
+Placement
+      │
+      ▼
+Clock Tree Synthesis (Skipped - Combinational Design)
+      │
+      ▼
+Routing
+      │
+      ▼
+Static Timing Analysis (STA)
+      │
+      ▼
+Design Rule Check (DRC)
+      │
+      ▼
+Layout vs Schematic (LVS)
+      │
+      ▼
+GDSII Generation
+```
+
+---
+
+## Tools Used
+
+- Verilog
+- LibreLane
+- OpenROAD
+- Yosys
+- Magic
+- Netgen
+- KLayout
+- Sky130 PDK
+- Docker
+
+---
+
+## Physical Design Results
+
+### RTL
+- ✔ Verilog successfully synthesized
+
+### Floorplanning
+- ✔ Automatic floorplan generation
+
+### Placement
+- ✔ Standard cell placement completed
+
+### Routing
+- ✔ Global and detailed routing completed
+
+### Timing Analysis
+- ✔ Static Timing Analysis performed
+
+### DRC
+- ✔ 0 Design Rule Violations
+
+### LVS
+- ✔ Layout matches schematic
+
+### GDSII
+- ✔ Final manufacturable GDS generated
+
+---
+
+## Output Files
+
+The flow generated the following physical design artifacts:
+
+- Synthesized Netlist
+- DEF
+- LEF
+- OpenDB Database
+- Timing Reports
+- DRC Reports
+- LVS Reports
+- Final GDSII Layout
+
+---
+
+## Technologies
+
+| Item | Technology |
+|------|------------|
+| RTL | Verilog HDL |
+| PDK | SkyWater SKY130 |
+| Standard Cell Library | sky130_fd_sc_hd |
+| Physical Design Flow | LibreLane |
+| Technology Node | 130 nm |
+
+---
+
+## Future Work
+
+This ALU is the first hardware block in a larger RISC-V processor project.
+
+Upcoming modules include:
+
+- Program Counter
+- Register File
+- Immediate Generator
+- Control Unit
+- ALU Control
+- Branch Unit
+- Data Memory
+- Complete RV32I Single-Cycle Processor
+- RTL-to-GDSII implementation of the full CPU
+
+---
+
+## Author
+
+**Naghul Pranav B S**
+
+B.Tech Electronics and Communication Engineering  
+Manipal Institute of Technology
+
+GitHub: https://github.com/technofuzz-np
+
+---
+
+## License
+
+This project is released under the MIT License.
