@@ -1,0 +1,23 @@
+Time resolution is 1 ps
+Reset Released
+x0=0 x1=0 x5=0
+
+========== TEST 1 ==========
+PASS : x1 = 100
+
+========== TEST 2 ==========
+PASS : x5 = 200
+
+========== TEST 3 ==========
+PASS : Dual Read
+
+========== TEST 4 ==========
+PASS : x0 remains zero
+
+========== REGISTER DUMP ==========
+x0 = 0
+x1 = 100
+x5 = 200
+
+Simulation Finished.
+$finish called at time : 77 ns : File "C:/Users/ASUS/Documents/RV32/RV32_REGISTERFILE/RV32_REGISTERFILE.srcs/sim_1/new/register_tb.sv" Line 182
