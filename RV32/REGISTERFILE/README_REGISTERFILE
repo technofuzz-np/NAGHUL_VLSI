@@ -1,0 +1,402 @@
+# 32×32 RISC-V Register File (RTL to GDSII ASIC Implementation)
+
+## Overview
+
+This project implements a **32-bit, 32-entry RISC-V Register File** in Verilog and demonstrates the complete **RTL-to-GDSII ASIC implementation flow** using the open-source Sky130 toolchain.
+
+Unlike a traditional RTL-only project, this design was successfully taken through every major stage of digital ASIC design including synthesis, floorplanning, placement, clock tree synthesis, routing, physical verification, and final GDSII generation.
+
+---
+
+# Project Objectives
+
+- Design a 32×32 Register File in Verilog
+- Verify functionality using a custom SystemVerilog testbench
+- Synthesize the RTL into Sky130 standard cells
+- Implement the complete physical design flow
+- Generate a manufacturable GDSII layout
+- Pass DRC and LVS verification
+
+---
+
+# Register File Specifications
+
+| Parameter | Value |
+|-----------|------:|
+| Registers | 32 |
+| Register Width | 32 bits |
+| Storage | 1024 Flip-Flops |
+| Read Ports | 2 |
+| Write Ports | 1 |
+| Write | Synchronous |
+| Read | Asynchronous |
+| Reset | Active High |
+| x0 Register | Hardwired to Zero |
+
+---
+
+# Features
+
+- 32 General Purpose Registers
+- Two Independent Read Ports
+- One Write Port
+- Active High Reset
+- x0 Always Reads Zero
+- Writes to x0 Ignored
+- Fully Verified RTL
+- ASIC Ready Design
+
+---
+
+# Block Diagram
+
+```
+                +---------------------------+
+                |      Register File        |
+                |                           |
+ rs1 ---------->|                           |------> rd1
+ rs2 ---------->|                           |------> rd2
+                |                           |
+  rd ---------->|                           |
+  wd ---------->|                           |
+  we ---------->|                           |
+ clk ---------->|                           |
+ rst ---------->|                           |
+                +---------------------------+
+```
+
+---
+
+# RTL Design
+
+The Register File was implemented in Verilog using:
+
+- 32 × 32-bit Register Array
+- Synchronous Write Logic
+- Asynchronous Read Logic
+- Reset Logic
+- x0 Protection Logic
+
+---
+
+# Verification
+
+A custom SystemVerilog testbench was created to verify all major functionality.
+
+## Test Cases
+
+- Reset Verification
+- Write Data to x1
+- Write Data to x5
+- Dual Read Verification
+- x0 Constant Zero Verification
+
+### Simulation Output
+
+```
+Reset Released
+x0=0 x1=0 x5=0
+
+========== TEST 1 ==========
+PASS : x1 = 100
+
+========== TEST 2 ==========
+PASS : x5 = 200
+
+========== TEST 3 ==========
+PASS : Dual Read
+
+========== TEST 4 ==========
+PASS : x0 remains zero
+
+Simulation Finished
+```
+
+---
+
+# ASIC Design Flow
+
+```
+RTL Design
+      │
+      ▼
+Functional Verification
+      │
+      ▼
+Logic Synthesis
+      │
+      ▼
+Floorplanning
+      │
+      ▼
+Global Placement
+      │
+      ▼
+Detailed Placement
+      │
+      ▼
+Clock Tree Synthesis
+      │
+      ▼
+Routing
+      │
+      ▼
+Design Rule Check (DRC)
+      │
+      ▼
+Layout Versus Schematic (LVS)
+      │
+      ▼
+Final GDSII
+```
+
+---
+
+# Synthesis Results
+
+Technology Library
+
+- SkyWater SKY130 HD Standard Cell Library
+
+### Results
+
+| Parameter | Value |
+|-----------|------:|
+| Standard Cells | 3580 |
+| Flip-Flops | 1024 |
+| Cell Area | 50,535.968 µm² |
+
+---
+
+# Floorplanning
+
+### Configuration
+
+| Parameter | Value |
+|-----------|------:|
+| Utilization | 50% |
+| Aspect Ratio | 1 |
+
+### Results
+
+| Parameter | Value |
+|-----------|------:|
+| Die Size | 328.96 × 339.68 µm |
+| Core Area | 100,291.187 µm² |
+
+---
+
+# Placement
+
+Successfully completed
+
+- Global Placement
+- Detailed Placement
+- Cell Legalization
+
+All standard cells were placed successfully within the floorplan.
+
+---
+
+# Clock Tree Synthesis (CTS)
+
+OpenROAD generated an optimized clock tree for all sequential elements.
+
+### Clock Statistics
+
+| Parameter | Value |
+|-----------|------:|
+| Clock Roots | 1 |
+| Clock Buffers Inserted | 121 |
+| Clock Subnets | 121 |
+| Clock Sinks | 1024 |
+
+### Clock Buffers Used
+
+- sky130_fd_sc_hd__clkbuf_16 × 1
+- sky130_fd_sc_hd__clkbuf_8 × 120
+
+---
+
+# Routing
+
+Detailed routing completed successfully.
+
+### Routing Statistics
+
+| Parameter | Value |
+|-----------|------:|
+| Total Wire Length | 277,628 µm |
+| Total Vias | 50,863 |
+
+Routing completed successfully with all violations resolved.
+
+---
+
+# Physical Verification
+
+## Design Rule Check (Magic)
+
+Status
+
+```
+PASS
+No DRC Errors Found
+```
+
+---
+
+## Layout Versus Schematic (Netgen)
+
+Status
+
+```
+PASS
+Circuits Match Uniquely
+```
+
+The extracted layout matched the synthesized netlist exactly.
+
+---
+
+# Final Outputs
+
+Generated Design Files
+
+- GDSII
+- DEF
+- LEF
+- ODB
+- Liberty
+- SPEF
+- SDF
+- SPICE Netlist
+- Synthesized Netlist
+
+---
+
+# Tools Used
+
+| Tool | Purpose |
+|------|---------|
+| Verilog | RTL Design |
+| Vivado Simulator | Functional Verification |
+| Git | Version Control |
+| LibreLane | Complete ASIC Flow |
+| Yosys | Logic Synthesis |
+| OpenROAD | Floorplanning, Placement, CTS, Routing |
+| Magic | DRC Verification |
+| Netgen | LVS Verification |
+| KLayout | Layout Visualization |
+| SKY130 PDK | Standard Cell Technology |
+
+---
+
+# Repository Structure
+
+```
+register_file/
+│
+├── rtl/
+│   └── registerfile.v
+│
+├── tb/
+│   └── tb_register.sv
+│
+├── config/
+│   └── config.json
+│
+├── runs/
+│
+├── final/
+│   ├── gds/
+│   ├── def/
+│   ├── lef/
+│   ├── spice/
+│   ├── sdf/
+│   ├── spef/
+│   └── lib/
+│
+└── README.md
+```
+
+---
+
+# Learning Outcomes
+
+This project demonstrates practical experience with:
+
+- RTL Design
+- SystemVerilog Verification
+- ASIC Logic Synthesis
+- Standard Cell Design Flow
+- Floorplanning
+- Placement
+- Clock Tree Synthesis
+- Physical Routing
+- Design Rule Checking (DRC)
+- Layout Versus Schematic (LVS)
+- GDSII Generation
+- Complete Open-Source RTL-to-GDSII Flow
+
+---
+
+# Results Summary
+
+| Stage | Status |
+|--------|--------|
+| RTL Design | ✅ |
+| Functional Verification | ✅ |
+| Logic Synthesis | ✅ |
+| Floorplanning | ✅ |
+| Global Placement | ✅ |
+| Detailed Placement | ✅ |
+| Clock Tree Synthesis | ✅ |
+| Routing | ✅ |
+| DRC | ✅ PASS |
+| LVS | ✅ PASS |
+| GDSII Generation | ✅ |
+
+---
+
+# Future Improvements
+
+- Parameterizable Register Width
+- Parameterizable Register Count
+- Read-After-Write Bypass
+- Dual Write Port Support
+- Multi-Port Register File
+- Clock Gating for Low Power
+- Integration into a Single-Cycle RISC-V Processor
+- Integration into a 5-Stage Pipelined RISC-V Processor
+
+---
+
+# Author
+
+**Naghul Pranav B S**
+
+B.Tech Electronics and Communication Engineering  
+Manipal Institute of Technology
+
+---
+
+# Acknowledgements
+
+This project was implemented using the open-source ASIC toolchain:
+
+- SkyWater SKY130 PDK
+- LibreLane
+- OpenROAD
+- Yosys
+- Magic
+- Netgen
+- KLayout
+
+---
+
+# Project Status
+
+> ✅ **Project Successfully Completed**
+
+This project demonstrates a complete **RTL-to-GDSII implementation** of a 32×32 RISC-V Register File using the Sky130 open-source ASIC design flow, successfully passing both **Design Rule Check (DRC)** and **Layout Versus Schematic (LVS)** verification.

@@ -1,0 +1,39 @@
+Reading timing models for corner nom_tt_025C_1v80…
+Reading timing library for the 'nom_tt_025C_1v80' corner at '/root/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib'…
+Reading OpenROAD database at '/work/runs/RUN_2026-08-06_09-53-31/39-openroad-globalrouting/registerfile.odb'…
+Reading design constraints file at '/nix/store/ffl2vg3m80k0p74pyffnmai83fnv38mf-python3-3.13.9-env/lib/python3.13/site-packages/librelane/scripts/base.sdc'…
+[INFO] Using clock clk…
+[INFO] Setting output delay to: 2
+[INFO] Setting input delay to: 2
+[INFO] Setting load to: 0.033442
+[INFO] Setting clock uncertainty to: 0.25
+[INFO] Setting clock transition to: 0.1499999999999999944488848768742172978818416595458984375
+[INFO] Setting timing derate to: 5%
++ repair_antennas sky130_fd_sc_hd__diode_2 -iterations 3 -ratio_margin 10
+[INFO GRT-0012] Found 59 antenna violations.
+[INFO GRT-0302] Inserted 84 jumpers for 51 nets.
+[INFO GRT-0012] Found 25 antenna violations.
+[WARNING GRT-0243] Unable to repair antennas on net with diodes.
+[INFO GRT-0015] Inserted 32 diodes.
+[INFO GRT-0012] Found 7 antenna violations.
+[INFO GRT-0302] Inserted 7 jumpers for 6 nets.
+[INFO GRT-0012] Found 1 antenna violations.
+[INFO GRT-0015] Inserted 3 diodes.
+[INFO GRT-0012] Found 0 antenna violations.
+Setting global connections for newly added cells…
+[INFO] Setting global connections...
+[INFO ODB-0403] 140 connections made, 0 conflicts skipped.
+Updating metrics…
+Cell type report:                       Count       Area
+  Fill cell                               232     870.84
+  Tap cell                               1416    1771.70
+  Antenna cell                             35      87.58
+  Clock buffer                            155    2100.76
+  Timing Repair Buffer                   2142   20046.73
+  Inverter                                  4      15.01
+  Clock inverter                           17     212.70
+  Sequential cell                        1024   21780.89
+  Multi-Input combinational cell         2552   28752.58
+  Total                                  7577   75638.79
+Writing OpenROAD database to '/work/runs/RUN_2026-08-06_09-53-31/42-openroad-repairantennas/1-openroad-diodeinsertion/registerfile.odb'…
+Writing layout to '/work/runs/RUN_2026-08-06_09-53-31/42-openroad-repairantennas/1-openroad-diodeinsertion/registerfile.def'…

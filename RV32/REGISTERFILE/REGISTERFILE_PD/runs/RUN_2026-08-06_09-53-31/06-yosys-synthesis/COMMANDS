@@ -1,0 +1,1 @@
+yosys -y /nix/store/ffl2vg3m80k0p74pyffnmai83fnv38mf-python3-3.13.9-env/lib/python3.13/site-packages/librelane/scripts/pyosys/synthesize.py -- --config-in /work/runs/RUN_2026-08-06_09-53-31/06-yosys-synthesis/config.json --extra-in /work/runs/RUN_2026-08-06_09-53-31/06-yosys-synthesis/extra.json --output /work/runs/RUN_2026-08-06_09-53-31/06-yosys-synthesis/registerfile.nl.v

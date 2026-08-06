@@ -1,0 +1,8 @@
+{
+    "DESIGN_NAME": "registerfile",
+    "VERILOG_FILES": [
+        "dir::src/REGISTERFILE.v"
+    ],
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 10
+}
